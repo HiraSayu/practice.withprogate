@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(115, 222, 187);
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+    text-align: center;
+    
+}
+
+
+h1{
+    color:aliceblue;
+    background-color:#5555FF;
+    height: 60px;
+    text-align: center;
+}
+
+h2{
+    color:#5555FF;
+    background: linear-gradient(transparent 60%, yellow 30%);
+    width: 400px;
+}
+
+h3{
+    color: #5555FF;
+    height: 10px;
+}
+
+h4{
+    color: #5555FF;
+}
+
+h5{
+    color:#2424ae;
+}
+
+
+.text{
+    color:#2424ae;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    width: 800px;
+}
+
+.block{
+   display: flex; 
+}
